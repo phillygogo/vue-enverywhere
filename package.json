@@ -1,6 +1,6 @@
 {
   "name": "vue-enverywhere",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A environment variable extractor to make them readily available at build time",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,10 @@
     "versioning",
     "serviceWorker"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phillygogo/vue-enverywhere.git"
+  },
   "author": "Phillygogo",
   "license": "ISC"
 }

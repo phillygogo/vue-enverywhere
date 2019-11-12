@@ -1,6 +1,6 @@
-# Enverywhere v1.0.2
+# Enverywhere v1.0.4
 
-This package can be utilized to extract specific environment variables at runtime.
+This package can be utilised to extract specific environment variables at runtime.
 
 Another option for this package is to pull the version from your package.json which is useful for versioning your service worker.
 
@@ -71,3 +71,7 @@ const VERSION = '1.0.1'
 ``` bash
 $ yarn build
 ```
+
+## Issues
+
+Please post a bug report or issue on GitHub.
