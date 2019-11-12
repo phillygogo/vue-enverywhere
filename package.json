@@ -1,0 +1,17 @@
+{
+  "name": "vue-enverywhere",
+  "version": "1.0.3",
+  "description": "A environment variable extractor to make them readily available at build time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vueJs",
+    "environmentVariables",
+    "versioning",
+    "serviceWorker"
+  ],
+  "author": "Phillygogo",
+  "license": "ISC"
+}
